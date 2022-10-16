@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=PT+Serif&display=swap");
+
+@font-face { 
+font-family: 'main';
+src: url('../fonts/main.ttf') format('truetype');
+}
+
+@font-face { 
+font-family: 'mainA';
+src: url('../fonts/mainA.ttf') format('truetype');
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "mainA";
+}
+
+
+.white-content {
+  background: #0b001f;
+  color: white;
+}
+
+.white{
+  background-color: #F4E3C2;
+}
