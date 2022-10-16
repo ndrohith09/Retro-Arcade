@@ -1,7 +1,8 @@
-# My Gallery
+# Retro Arcade
 <div align="center">
-My Gallery is a simple website to store all your photos online
+A perfect place to store your memories
 </div>
 <br />
 
-![header](https://user-images.githubusercontent.com/73429989/196027979-c888d868-9500-4a2b-9a7d-c3bff61cbbcf.png?raw=true)
+![retro](https://user-images.githubusercontent.com/50093149/196029142-68b6fcbc-55a1-4116-8bdd-61cb6558d924.png)
+![Safari (Big Sur) - Dark](https://user-images.githubusercontent.com/50093149/196029085-b6c449ed-263a-4d1a-befa-ebf18b4953d0.png)
